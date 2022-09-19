@@ -1,4 +1,4 @@
-public class Main {
+public class DZ1 {
     public static void main(String[] args) {
         var dog = 8;
         System.out.println(dog);
