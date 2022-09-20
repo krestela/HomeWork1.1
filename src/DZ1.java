@@ -18,7 +18,7 @@ public class DZ1 {
         System.out.println(paper);
         paper = paper + 4;
         System.out.println(paper);
-        paper = paper - 763789;
+        paper = paper - 7639;
         System.out.println(paper);
 
     }
