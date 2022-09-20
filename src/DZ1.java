@@ -11,7 +11,7 @@ public class DZ1 {
         System.out.println(cat);
         cat = cat + 4;
         System.out.println(cat);
-        cat = cat - 3.6;
+        cat = cat - 1.6;
         System.out.println(cat);
 
         var paper = 763789;
